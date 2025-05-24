@@ -86,9 +86,9 @@ Snap4City is an open-source UDTP that can be used to collect a wide range of sma
 
 [^11]: https://blackshark.ai/
 
-[^12]: <https://blender-addons.org/blendergis-addon/>
+[^12]: <https://github.com/domlysz/BlenderGIS>
 
-[^13]: <https://github.com/domlysz/BlenderGIS>
+[^13]: <https://blender-addons.org/blendergis-addon/>
 
 [^14]: <https://blockbax.com/digital-twin/>
 

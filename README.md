@@ -54,13 +54,13 @@ HxDR is a subscription-based SaaS platform that focuses mainly on providing the 
 
 OpenCities Planner is one of the software solutions developed by Bentley Systems. It is a city-scale DT planning and visualization platform. This platform enables smart cities developers to seamlessly integrate different types of data, such as 3D models, images, geographic documents, and vector data. Furthermore, OpenCities Planner supports smart city developers or project owners to seamlessly integrate various stakeholders, such as architects, engineers, property owners, and managers. Open Cities Planner can enhance and support the use of the Kalasatama DT platform by establishing data connections and developing visual scenarios. These scenarios can then be tested and explored within the virtual Kalasatama environment at a later stage. The platform further facilitates citizen engagement and collaboration among Kalasatama residents, enabling them to exchange expertise and knowledge. Finally, it allows for wind and solar simulation using semantic and reality mesh models, which demonstrate the effects of air flows and analyze the shadows cast over the Kalasatama district.
 
-#### **SmartWorldPro** [^19]
+#### **SmartWorldPro**
 
-SmartWorldPro is a UDTP developed by Cityzenith[^20] that can facilitate the design, construction, and management of smart cities. SmartWorldPro's main goal is to assist developers, planners, and architects in the creation of more efficient and sustainable urban environments. The platform generates 3D DTs of cities, which can be utilized for urban planning and development by integrating data from multiple sources. SmartWorldPro is capable of aggregating models such as BIM, CAD, and GIS, with documents and IoT devices to generate a single 3D platform. This platform is based on the Unity game engine. SmartWorldPro solution is accompanied by an SDK, which can be used for expanding the available software stack and integrating third-party applications and/or content. SmartWorldPro makes available two primary options for installation: a standalone and a cloud-based SaaS version. It offers a range of services that facilitate the execution of a comprehensive solution. The provided services encompass the creation of 3D/4D asset models, integration of APIs, and development of tailored user interfaces. SmartWorldPro aims to improve the livability, functionality, and sustainability of urban areas.
+SmartWorldPro is a UDTP developed by Cityzenith that can facilitate the design, construction, and management of smart cities. SmartWorldPro's main goal is to assist developers, planners, and architects in the creation of more efficient and sustainable urban environments. The platform generates 3D DTs of cities, which can be utilized for urban planning and development by integrating data from multiple sources. SmartWorldPro is capable of aggregating models such as BIM, CAD, and GIS, with documents and IoT devices to generate a single 3D platform. This platform is based on the Unity game engine. SmartWorldPro solution is accompanied by an SDK, which can be used for expanding the available software stack and integrating third-party applications and/or content. SmartWorldPro makes available two primary options for installation: a standalone and a cloud-based SaaS version. It offers a range of services that facilitate the execution of a comprehensive solution. The provided services encompass the creation of 3D/4D asset models, integration of APIs, and development of tailored user interfaces. SmartWorldPro aims to improve the livability, functionality, and sustainability of urban areas.
 
 This platform utilizes DT technology to generate virtual replicas of physical assets and systems within urban areas. These virtual models help city administrators to monitor and optimize urban environments toward achieving urban sustainability, efficiency, and resilience. SmartWorldPro makes available a dashboard showing all relevant data on various fields: design, legal, financial, parcel, energy, maintenance, and security information. The platform gives users the option to extend applications from a single structure to even thousands of structures. DTs developed using SmartWorldPro allow citizens to collect and analyze data related to energy consumption, air quality, traffic patterns, but also any other urban variables to make informed decisions and take precautions accordingly. It offers software and applications that allow collaborative planning, design, and management of urban projects. Finally, it brings together a wide range of stakeholders who can visualize how changes might affect the urban environment, such as architects, developers, city planners, and citizens. This prerogative of the platform can contribute to improving and optimizing the procedures to support urban planning.
 
-#### **Snap4City** [^21]
+#### **Snap4City** [^19]
 
 Snap4City is an open-source UDTP that can be used to collect a wide range of smart city/IoT data to enable various features and functionalities, such as data aggregation, predictive data analytics, anomaly detection, and trend indicators. It offers 2D dashboards to support data visualization. The Snap4City platform features a 3D City Modeling Framework for Smart City Digital Twin, which can be used to provide photo-realistic texture and to integrate 3D representations during the process of UDT development. This framework is available as a multi-layer 3D map in the open-source Snap4City platform. Users can refer to this 3D map as a widget on dashboards to visualize a full 3D city environment and a wide variety of data. These data include IoT devices (city sensors and actuators, as well as private devices), POI, heatmaps, geometries, bus routes, traffic flows, and polylines related to cycling paths. Users can easily map single city elements and device markers to inspect their data and attributes. In this way, the Snap4City platform enables easy and smart navigation and consultation of both the global UDT and its related data.
 
@@ -68,9 +68,9 @@ Snap4City is an open-source UDTP that can be used to collect a wide range of sma
 
 [^2]: <https://www.kadaster.nl>
 
-[^3]: https://www.3ds.com/3dexperience/solutions
+[^3]: <https://www.3ds.com/3dexperience/solutions>
 
-[^4]: https://www.51vr.com.au/
+[^4]: <https://www.51vr.com.au/>
 
 [^5]: <https://www.scaleoutsoftware.com/products/digital-twin-builder/>
 
@@ -82,9 +82,9 @@ Snap4City is an open-source UDTP that can be used to collect a wide range of sma
 
 [^9]: <https://spacemaker.ai>
 
-[^10]: https://it.bentley.com/software/itwin-platform/
+[^10]: <https://it.bentley.com/software/itwin-platform/>
 
-[^11]: https://blackshark.ai/
+[^11]: <https://blackshark.ai/>
 
 [^12]: <https://github.com/domlysz/BlenderGIS>
 
@@ -98,10 +98,6 @@ Snap4City is an open-source UDTP that can be used to collect a wide range of sma
 
 [^17]: <https://blog.hexagongeosystems.com/what-is-a-digital-twin-the-what-why-how-and-whats-next/>
 
-[^18]: https://www.bentley.com/software/opencities-planner/
+[^18]: <https://www.bentley.com/software/opencities-planner/>
 
-[^19]: <https://invest.cityzenith.com/old-home>
-
-[^20]: <https://www.crunchbase.com/organization/cityzenith>
-
-[^21]: <https://www.snap4city.org>
+[^19]: <https://www.snap4city.org>
